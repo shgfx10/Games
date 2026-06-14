@@ -1,8 +1,20 @@
-# Stickman Fight!
+# Games
+
+A collection of browser-based games and interactive web experiences built with HTML5 Canvas and Vanilla JavaScript — no frameworks, no dependencies, runs in any browser.
+
+## Games
+
+| Game | Description |
+|------|-------------|
+| [Stickman Fight](./stickman-fight) | 2D fighting game with punch, kick, block & special moves |
+
+---
+
+## Stickman Fight
 
 A classic 2D stickman fighting game built with HTML5 Canvas and JavaScript.
 
-## Features
+### Features
 - 2-player local multiplayer
 - AI opponent (Auto Fight mode)
 - 4 combat moves: Punch, Kick, Block, Special
@@ -10,7 +22,7 @@ A classic 2D stickman fighting game built with HTML5 Canvas and JavaScript.
 - Dynamic health bars with hit effects
 - Particle effects and impact animations
 
-## Controls
+### Controls
 
 **Player 1:**
 - `W` `A` `S` `D` — Move
@@ -20,12 +32,12 @@ A classic 2D stickman fighting game built with HTML5 Canvas and JavaScript.
 - `↑` `←` `↓` `→` — Move
 - `1` Punch | `2` Kick | `3` Block | `4` Special
 
-## How to Play
+### How to Play
 1. Open `index.html` in any browser
 2. Use keyboard or on-screen buttons
 3. First to deplete opponent's health wins!
 
-## Tech Stack
+### Tech Stack
 - HTML5 Canvas
 - Vanilla JavaScript
 - CSS3
